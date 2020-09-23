@@ -1,7 +1,7 @@
-# ToDoList
+# Telemeter
 ** Version 1.0.0 **
 ## Overview
-Telemetry Traces is developed for educational purpose. This application is developed in android platform. It records data from sensors of android device and displays same on graph.
+Telemeter is developed for educational purpose. This application is developed in android platform. It records data from sensors of android device and displays same on graph.
 ## Features
 <!-- UL -->
 * Select Sensor Type.
