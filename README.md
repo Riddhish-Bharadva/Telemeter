@@ -11,7 +11,7 @@ Telemeter is developed for educational purpose. This application is developed in
 * Stop trace when required.
 ## How to run this project?
 <!-- OL -->
-1. Pull file from git repository by [clicking here](https://github.com/Riddhish-Bharadva/Telemetry-Traces) or download .apk file by [clicking here](https://github.com/Riddhish-Bharadva/Telemetry-Traces/blob/master/Telemetry_Traces.apk).
+1. Pull file from git repository by [clicking here](https://github.com/Riddhish-Bharadva/Telemeter) or download .apk file by [clicking here](https://github.com/Riddhish-Bharadva/Telemeter/blob/master/Telemeter.apk).
 1. Open project in Android studio to view code or run the application in any of your android device to test.
 ## Copyright
 © Riddhish Atul Bharadva
